@@ -40,7 +40,7 @@ tasks.named('test') {
 
 jar {
 	manifest {
-		attributes 'RestfakeApplication': 'com.desarrollo.tpApiRest.TpApiRestApplication'
+		attributes 'TpApiRestApplication': 'com.desarrollo.tpApiRest.TpApiRestApplication'
 	}
 }
 
